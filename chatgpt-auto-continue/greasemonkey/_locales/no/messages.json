@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "ChatGPT Auto-Fortsett" },
+  "appDesc": { "message": "Fortsett automatisk å generere flere ChatGPT-svar" },
+  "menuLabel_modeNotifs": { "message": "Modusvarsler" },
+  "menuLabel_about": { "message": "Om" },
+  "about_version": { "message": "Versjon" },
+  "about_poweredBy": { "message": "Drevet av" },
+  "about_sourceCode": { "message": "Kildekode" },
+  "mode_autoContinue": { "message": "Auto-Fortsett" },
+  "alert_updateAvail": { "message": "Oppdatering tilgjengelig" },
+  "alert_newerVer": { "message": "En oppdatering til" },
+  "alert_isAvail": { "message": "tilgjengelig" },
+  "alert_upToDate": { "message": "Oppdatert" },
+  "alert_isUpToDate": { "message": "er oppdatert" },
+  "notif_chatAutoContinued": { "message": "Chat Auto-fortsettelse" },
+  "buttonLabel_moreApps": { "message": "Flere ChatGPT-apper" },
+  "buttonLabel_leaveReview": { "message": "Legg igjen en anmeldelse" },
+  "buttonLabel_getSupport": { "message": "Brukerstøtte" },
+  "buttonLabel_updateCheck": { "message": "Se etter oppdateringer" },
+  "buttonLabel_update": { "message": "Oppdater" },
+  "buttonLabel_dismiss": { "message": "Ignorer" },
+  "link_viewChanges": { "message": "Vis endringer" }
+}

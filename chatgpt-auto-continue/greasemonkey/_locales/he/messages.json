@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "המשך אוטומטי של ChatGPT" },
+  "appDesc": { "message": "המשך באופן אוטומטי ביצירת תגובות מרובות של ChatGPT" },
+  "menuLabel_modeNotifs": { "message": "התראות מצב" },
+  "menuLabel_about": { "message": "אודות" },
+  "about_version": { "message": "גירסה" },
+  "about_poweredBy": { "message": "באמצעות " },
+  "about_sourceCode": { "message": "קוד מקור" },
+  "mode_autoContinue": { "message": "המשך אוטומטי" },
+  "alert_updateAvail": { "message": "עדכון זמין" },
+  "alert_newerVer": { "message": "עדכון ל -" },
+  "alert_isAvail": { "message": "%s זמין" },
+  "alert_upToDate": { "message": "מעודכן" },
+  "alert_isUpToDate": { "message": "מעודכן" },
+  "notif_chatAutoContinued": { "message": "הצ'אט הופסק אוטומטית" },
+  "buttonLabel_moreApps": { "message": "עוד אפליקציות ChatGPT" },
+  "buttonLabel_leaveReview": { "message": "כתבי חוות דעת" },
+  "buttonLabel_getSupport": { "message": "קבל תמיכה" },
+  "buttonLabel_updateCheck": { "message": "חפש עדכונים" },
+  "buttonLabel_update": { "message": "עדכון" },
+  "buttonLabel_dismiss": { "message": "שחרור" },
+  "link_viewChanges": { "message": "הצגת השינויים" }
+}

@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "Automatski nastavi chatGPT" },
+  "appDesc": { "message": "Automatski nastavi sa generisanjem više ChatGPT odgovora" },
+  "menuLabel_modeNotifs": { "message": "Obaveštenja o režimu" },
+  "menuLabel_about": { "message": "O nama" },
+  "about_version": { "message": "Verzija" },
+  "about_poweredBy": { "message": "Powered by" },
+  "about_sourceCode": { "message": "Izvorni kod" },
+  "mode_autoContinue": { "message": "Automatski nastavi" },
+  "alert_updateAvail": { "message": "Dostupna nadogradnja" },
+  "alert_newerVer": { "message": "Ažuriranje za" },
+  "alert_isAvail": { "message": "je dostupna" },
+  "alert_upToDate": { "message": "U toku" },
+  "alert_isUpToDate": { "message": "je ažuran" },
+  "notif_chatAutoContinued": { "message": "Ćaskanje je automatski nastavljeno" },
+  "buttonLabel_moreApps": { "message": "Još ChatGPT aplikacija" },
+  "buttonLabel_leaveReview": { "message": "Ostavite komentar i ocenite turu." },
+  "buttonLabel_getSupport": { "message": "Plaćena Podrška " },
+  "buttonLabel_updateCheck": { "message": "Провери допуне" },
+  "buttonLabel_update": { "message": "Ažuriraj" },
+  "buttonLabel_dismiss": { "message": "Odbaci" },
+  "link_viewChanges": { "message": "Prikaži promjene" }
+}

@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "ChatGPT Auto-Continuar" },
+  "appDesc": { "message": "Continuar gerando automaticamente várias respostas do ChatGPT" },
+  "menuLabel_modeNotifs": { "message": "Notificações de modo" },
+  "menuLabel_about": { "message": "Quem somos" },
+  "about_version": { "message": "Versão" },
+  "about_poweredBy": { "message": "Distribuído pela" },
+  "about_sourceCode": { "message": "Código-fonte" },
+  "mode_autoContinue": { "message": "Continuar automaticamente" },
+  "alert_updateAvail": { "message": "Actualização disponível" },
+  "alert_newerVer": { "message": "Uma actualização para" },
+  "alert_isAvail": { "message": "está disponível" },
+  "alert_upToDate": { "message": "Moderno" },
+  "alert_isUpToDate": { "message": "está actualizado" },
+  "notif_chatAutoContinued": { "message": "Continuação automática do chat" },
+  "buttonLabel_moreApps": { "message": "Mais aplicações ChatGPT" },
+  "buttonLabel_leaveReview": { "message": "Deixe um comentário" },
+  "buttonLabel_getSupport": { "message": "Obter suporte" },
+  "buttonLabel_updateCheck": { "message": "Verificar se há atualizações" },
+  "buttonLabel_update": { "message": "Atualizar" },
+  "buttonLabel_dismiss": { "message": "Ignorar" },
+  "link_viewChanges": { "message": "Ver Alterações" }
+}

@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "Gukomeza" },
+  "appDesc": { "message": "Gukomeza IgikuboGPT" },
+  "menuLabel_modeNotifs": { "message": "< B B" },
+  "menuLabel_about": { "message": "Bigyanye" },
+  "about_version": { "message": "Umukoro" },
+  "about_poweredBy": { "message": "Ku" },
+  "about_sourceCode": { "message": "C Inkomoko ITEGEKONGENGA" },
+  "mode_autoContinue": { "message": "Gukomeza" },
+  "alert_updateAvail": { "message": "Bihari" },
+  "alert_newerVer": { "message": "Kuri" },
+  "alert_isAvail": { "message": "bihari" },
+  "alert_upToDate": { "message": "Kuvugurura" },
+  "alert_isUpToDate": { "message": "Kuvugurura" },
+  "notif_chatAutoContinued": { "message": "Komeza > >" },
+  "buttonLabel_moreApps": { "message": "Porogaramu" },
+  "buttonLabel_leaveReview": { "message": "A" },
+  "buttonLabel_getSupport": { "message": "Gushigikira" },
+  "buttonLabel_updateCheck": { "message": "Kugirango" },
+  "buttonLabel_update": { "message": "Kuvugurura" },
+  "buttonLabel_dismiss": { "message": "Kureka" },
+  "link_viewChanges": { "message": "Amahinduka" }
+}
